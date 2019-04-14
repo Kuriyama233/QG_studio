@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1555241777 source:f:\qg_studio\forth_homework\sortproject\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"../inc/qgsort.h"
+	"../inc/SqStack.h"
+
+1555072312 f:\qg_studio\forth_homework\sortproject\inc\qgsort.h
+
+1555224548 f:\qg_studio\forth_homework\sortproject\inc\sqstack.h
+
+1555224548 source:f:\qg_studio\forth_homework\sortproject\src\sqstack.c
+	<stdio.h>
+	<stdlib.h>
+	"../inc/qgsort.h"
+	"../inc/SqStack.h"
+
+1555247918 source:f:\qg_studio\forth_homework\sortproject\src\qgsort.c
+	<stdio.h>
+	<stdlib.h>
+	"../inc/qgsort.h"
+	"../inc/SqStack.h"
+
+1555243343 source:f:\qg_studio\forth_homework\sortproject\src\wfile_main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"../inc/qgsort.h"
+	"../inc/SqStack.h"
+
+1555246455 source:f:\qg_studio\forth_homework\sortproject\src\rfile_main.c
+	<stdio.h>
+	<stdlib.h>
+	"../inc/qgsort.h"
+	"../inc/SqStack.h"
+
